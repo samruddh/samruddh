@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samruddh
 - 👀 I’m interested in node.js, react.js and AWS
 - 🌱 I’m currently learning to be live in present
-- 💞️ I’m looking to collaborate on node.js
+- 💞️ I’m looking to collaborate on MERN and AWS
 - 📫 How to reach me samruddhashah@mgail.com
 
 <!---
